@@ -24,17 +24,16 @@
 /* Here is the gallery */
 .gallery{
     width: 100%;
-    box-sizing: border-box;
     background-color: #555;
     display: flex;
     flex-wrap: wrap;
 }
 .card{
-    width:25%;
+    width:250px;
     box-sizing: border-box;
     background-color: darkgray;
     border-radius: 10px;
-    margin: 20px;
+    margin: 10px;
 }
 .card .card-desc{
     width: 100%;
