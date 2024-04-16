@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    background-color: #f2f;
+}
+.greeting-mess{
+    padding: 20px;
+    text-align: center;
+}
+.greeting-mess h1{
+    font-size: 30px;
+    font-family: sans-serif;
+    padding: 20px 0px 20px;
+    color: blue;
+}
+.greeting-mess p{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
